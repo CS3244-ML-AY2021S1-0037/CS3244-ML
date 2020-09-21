@@ -1,0 +1,6 @@
+- name: Notify Telegram
+  uses: yanzay/notify-telegram@v0.1.0
+  with:
+    chat: secrets.CHAT
+    token: secrets.TOKEN
+    status: job.status 
