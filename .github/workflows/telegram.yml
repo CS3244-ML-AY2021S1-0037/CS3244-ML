@@ -4,3 +4,8 @@
     chat: secrets.CHAT
     token: secrets.TOKEN
     status: job.status 
+  on: 
+    pull_request:
+      branches:
+      - master  
+        
