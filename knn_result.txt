@@ -1,0 +1,66 @@
+Result for kNN with sample size 3000 (hardware limitations)
+
+Training done for 3 neighbors
+Hamming loss for 3 neighbors: 0.223
+F1 micro score for 3 neighbors: 0.32628398791540786
+Accuracy score: 0.08
+
+Training done for 5 neighbors
+Hamming loss for 5 neighbors: 0.19833333333333333
+F1 micro score for 5 neighbors: 0.34972677595628415
+Accuracy score: 0.10333333333333333
+
+Training done for 7 neighbors
+Hamming loss for 7 neighbors: 0.19133333333333333
+F1 micro score for 7 neighbors: 0.3477272727272727
+Accuracy score: 0.09666666666666666
+
+Training done for 13 neighbors
+Hamming loss for 13 neighbors: 0.192
+F1 micro score for 13 neighbors: 0.3110047846889953
+Accuracy score: 0.10333333333333333
+
+Training done for 15 neighbors
+Hamming loss for 15 neighbors: 0.18966666666666668
+F1 micro score for 15 neighbors: 0.31197097944377267
+Accuracy score: 0.09666666666666666
+
+Training done for 25 neighbors
+Hamming loss for 25 neighbors: 0.18833333333333332
+F1 micro score for 25 neighbors: 0.31680773881499397
+Accuracy score: 0.09666666666666666
+
+Training done for 35 neighbors
+Hamming loss for 35 neighbors: 0.18733333333333332
+F1 micro score for 35 neighbors: 0.31630170316301703
+Accuracy score: 0.09666666666666666
+
+Training done for 45 neighbors
+Hamming loss for 45 neighbors: 0.18666666666666668
+F1 micro score for 45 neighbors: 0.3137254901960784
+Accuracy score: 0.10666666666666667
+
+Training done for 55 neighbors
+Hamming loss for 55 neighbors: 0.185
+F1 micro score for 55 neighbors: 0.3190184049079755
+Accuracy score: 0.11
+
+Training done for 61 neighbors
+Hamming loss for 61 neighbors: 0.18433333333333332
+F1 micro score for 61 neighbors: 0.32643118148599265
+Accuracy score: 0.11333333333333333
+
+Training done for 71 neighbors
+Hamming loss for 71 neighbors: 0.18233333333333332
+F1 micro score for 71 neighbors: 0.3401688781664656
+Accuracy score: 0.11666666666666667
+
+Training done for 81 neighbors
+Hamming loss for 81 neighbors: 0.182
+F1 micro score for 81 neighbors: 0.34375000000000006
+Accuracy score: 0.11333333333333333
+
+Training done for 101 neighbors
+Hamming loss for 101 neighbors: 0.18433333333333332
+F1 micro score for 101 neighbors: 0.3377245508982036
+Accuracy score: 0.10666666666666667
