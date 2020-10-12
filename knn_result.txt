@@ -1,5 +1,7 @@
 Result for kNN with sample size 3000 (hardware limitations)
 
+Results on validation set for k=3....101:
+
 Training done for 3 neighbors
 Hamming loss for 3 neighbors: 0.223
 F1 micro score for 3 neighbors: 0.32628398791540786
@@ -60,7 +62,20 @@ Hamming loss for 81 neighbors: 0.182
 F1 micro score for 81 neighbors: 0.34375000000000006
 Accuracy score: 0.11333333333333333
 
+Training done for 91 neighbors
+Hamming loss for 91 neighbors: 0.18233333333333332
+F1 micro score for 91 neighbors: 0.3449101796407186
+Accuracy score: 0.11333333333333333
+
 Training done for 101 neighbors
 Hamming loss for 101 neighbors: 0.18433333333333332
 F1 micro score for 101 neighbors: 0.3377245508982036
 Accuracy score: 0.10666666666666667
+
+
+Results on test set for k=81:
+
+Training done for 81 neighbors
+Hamming loss for 81 neighbors: 0.17833333333333334
+F1 micro score for 81 neighbors: 0.34835566382460414
+Accuracy score: 0.07666666666666666
