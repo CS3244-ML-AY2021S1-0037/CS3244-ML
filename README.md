@@ -3,7 +3,7 @@ This repository is created for the purposes of our movie poster classification M
 
 ## Abstract 
 
-We aim to predict the genre of a movie based solely on its poster, using a variety of machine learning techniques. Since a movie may belong to multiple genres, this is a multi-label classification problem. We evaluated performance of both traditional machine learning methods and modern deep learning neural networks. Predictions were made with different features using different models to gather effectiveness of each feature. From our results, we find that the raw image features are the most important, followed by emotions. Words and dominant HSV values both show subpar results. Finally, we find that Convolutional Neural Networks performed better than other traditional Machine Learning Models.
+We aim to predict the genre of a movie based solely on its poster, using a variety of machine learning techniques. Since a movie may belong to multiple genres, this is a multi-label classification problem. We evaluated performance of both traditional machine learning methods and modern deep learning neural networks. Predictions were made with different features using different models to gather effectiveness of each feature. From our results, we find that the raw image features are the most important, followed by emotions. Words and dominant HSV values both show subpar results. Finally, we find that Convolutional Neural Networks performed better than other traditional Machine Learning Models. Test our model with this with our web application - https://artofposters.herokuapp.com/ 
 
 ## Introduction 
 
@@ -54,7 +54,7 @@ Models used: Logistic Regression, Naive Bayes, AdaBoost and Random Forest
 
 Done by: Jeevan (https://github.com/Jeevz10)
 
-Preprocessing: Extract Average Emotions Confidence Scores 
+Preprocessing: Extract Average Emotions Confidence Scores Using Amazon Rekognition API 
 Input: 9 different emotions
 Dataset size: 5,000 posters
 Dataset split: 70%, 30% 
