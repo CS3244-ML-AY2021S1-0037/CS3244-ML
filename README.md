@@ -1,9 +1,11 @@
 # CS3244-2010-0037: The Art of Movie Posters: A Machine Learning Approach
-This repository is created for the purposes of our movie poster classification ML project.
+This repository is created for the purposes of our movie poster genre classification ML project.
+
+![Image of Toy Story Poster](https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-wt2it4_fbf729c8.jpeg?region=0,0,300,450)
 
 ## Abstract 
 
-We aim to predict the genre of a movie based solely on its poster, using a variety of machine learning techniques. Since a movie may belong to multiple genres, this is a multi-label classification problem. We evaluated performance of both traditional machine learning methods and modern deep learning neural networks. Predictions were made with different features using different models to gather effectiveness of each feature. From our results, we find that the raw image features are the most important, followed by emotions. Words and dominant HSV values both show subpar results. Finally, we find that Convolutional Neural Networks performed better than other traditional Machine Learning Models. Test our model with this with our web application - https://artofposters.herokuapp.com/ 
+We aim to predict the genre of a movie based solely on its poster, using a variety of machine learning techniques. Since a movie may belong to multiple genres, this is a multi-label classification problem. We evaluated performance of both traditional machine learning methods and modern deep learning neural networks. Predictions were made with different features using different models to gather effectiveness of each feature. From our results, we find that the raw image features are the most important, followed by emotions. Words and dominant HSV values both show subpar results. Finally, we find that Convolutional Neural Networks performed better than other traditional Machine Learning Models. Test our model with this on our web application - https://artofposters.herokuapp.com/ 
 
 ## Introduction 
 
